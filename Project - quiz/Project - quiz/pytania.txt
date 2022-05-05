@@ -1,0 +1,18 @@
+Pytanie 1: Ile jest miesięcy w roku?
+Odp a: 10
+Odp b: 14
+Odp c: 12
+Odp d: 8
+!10!c
+
+Pytanie 2: Ile jest dni w tygodniu?
+Odp a: 3
+Odp b: 5
+Odp c: 7
+Odp d: 9
+!1!c
+
+
+
+
+
