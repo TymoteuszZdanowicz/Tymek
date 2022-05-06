@@ -1,0 +1,65 @@
+﻿  Dioda.cpp
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(4,9): error C3646: 'jaki_kolor': unknown override specifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(4,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(7,8): error C2061: syntax error: identifier 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(10,13): error C2061: syntax error: identifier 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,9): error C3646: 'odczytaj': unknown override specifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,17): error C2059: syntax error: '('
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\SuperStudent\Desktop\Lab5\Rezystor.h(4,22): error C2504: 'Dioda': base class undefined
+C:\Users\SuperStudent\Desktop\Lab5\Dioda_led.h(6,41): error C2504: 'Dioda': base class undefined
+  Dioda_led.cpp
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(4,9): error C3646: 'jaki_kolor': unknown override specifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(4,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(7,8): error C2061: syntax error: identifier 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(10,13): error C2061: syntax error: identifier 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,9): error C3646: 'odczytaj': unknown override specifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,17): error C2059: syntax error: '('
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\SuperStudent\Desktop\Lab5\Dioda_led.h(6,26): warning C4584: 'Dioda_led': base-class 'Dioda' is already a base-class of 'Rezystor'
+C:\Users\SuperStudent\Desktop\Lab5\Dioda.h(4): message : see declaration of 'Dioda'
+C:\Users\SuperStudent\Desktop\Lab5\Rezystor.h(4): message : see declaration of 'Rezystor'
+C:\Users\SuperStudent\Desktop\Lab5\Dioda_led.cpp(6,118): error C2664: 'Kolor::Kolor(const Kolor &)': cannot convert argument 1 from 'kolory' to 'const Kolor &'
+C:\Users\SuperStudent\Desktop\Lab5\Dioda_led.cpp(6,118): message : Reason: cannot convert from 'kolory' to 'const Kolor'
+C:\Users\SuperStudent\Desktop\Lab5\Dioda_led.cpp(6,96): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(12,1): message : see declaration of 'Kolor::Kolor'
+  Kolor.cpp
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(4,9): error C3646: 'jaki_kolor': unknown override specifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(4,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(7,8): error C2061: syntax error: identifier 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(10,13): error C2061: syntax error: identifier 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,9): error C3646: 'odczytaj': unknown override specifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,17): error C2059: syntax error: '('
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.cpp(6,34): error C2511: 'Kolor::Kolor(kolory)': overloaded member function not found in 'Kolor'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(2): message : see declaration of 'Kolor'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.cpp(6,36): error C2065: 'jaki_kolor': undeclared identifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.cpp(8,39): error C2511: 'void Kolor::ustaw(kolory)': overloaded member function not found in 'Kolor'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(2): message : see declaration of 'Kolor'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.cpp(8,41): error C2065: 'jaki_kolor': undeclared identifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.cpp(9,15): error C2039: 'odczytaj': is not a member of 'Kolor'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(2): message : see declaration of 'Kolor'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.cpp(9,35): error C2065: 'jaki_kolor': undeclared identifier
+  Main.cpp
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(4,9): error C3646: 'jaki_kolor': unknown override specifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(4,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(7,8): error C2061: syntax error: identifier 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(10,13): error C2061: syntax error: identifier 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,9): error C3646: 'odczytaj': unknown override specifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,17): error C2059: syntax error: '('
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\SuperStudent\Desktop\Lab5\Rezystor.h(4,22): error C2504: 'Dioda': base class undefined
+C:\Users\SuperStudent\Desktop\Lab5\Dioda_led.h(6,41): error C2504: 'Dioda': base class undefined
+C:\Users\SuperStudent\Desktop\Lab5\Main.cpp(9,35): error C2664: 'Dioda_led::Dioda_led(double,double,kolory,double)': cannot convert argument 3 from 'int' to 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Main.cpp(9,30): message : Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
+C:\Users\SuperStudent\Desktop\Lab5\Dioda_led.h(8,2): message : see declaration of 'Dioda_led::Dioda_led'
+  Rezystor.cpp
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(4,9): error C3646: 'jaki_kolor': unknown override specifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(4,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(7,8): error C2061: syntax error: identifier 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(10,13): error C2061: syntax error: identifier 'kolory'
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,9): error C3646: 'odczytaj': unknown override specifier
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,17): error C2059: syntax error: '('
+C:\Users\SuperStudent\Desktop\Lab5\Kolor.h(11,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\SuperStudent\Desktop\Lab5\Dioda_led.h(6,34): error C2504: 'Rezystor': base class undefined
+  Generating Code...
