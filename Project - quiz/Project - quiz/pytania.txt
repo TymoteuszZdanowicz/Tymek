@@ -1,0 +1,36 @@
+Pytanie 1: Ile jest miesiecy w roku?
+Odp a: 12
+Odp b: 14
+Odp c: 10
+!5!a
+
+Pytanie 2: Ile jest dni w tygodniu?
+Odp a: 3
+Odp b: 5
+Odp c: 7
+Odp d: 9
+Odp e: 10
+!5!c
+
+Pytanie 3: W ktorym roku byla bitwa pod Grunwaldem?
+Odp a: 2022
+Odp b: 1410
+Odp c: 1540
+Odp d: 1150
+!4!b
+
+Pytanie 4: Jak sie nazywa ostatnia planeta ukladu slonecznego?
+Odp a: Pluto
+Odp b: Mars
+Odp c: Neptun
+Odp d: Jowisz
+Odp e: Saturn
+Odp f: Ziemia
+Odp g: Venus
+Odp h: Merkury
+!12!c
+
+
+
+
+

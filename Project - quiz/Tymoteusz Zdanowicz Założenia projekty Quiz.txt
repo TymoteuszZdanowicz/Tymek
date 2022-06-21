@@ -1,0 +1,72 @@
+"Program do sprawdzania wiedzy (quiz)"
+Program, który pobiera pytania z pliku wejściowego (.txt) i tworzy interface, na którym można odpowiadać na pytania.
+
+Założenia:
+- Treść w pliku wejściowym jest podana zgodnie z instrukcją, którą można wyświetlić przełącznikiem -h. 
+- Program tworzy pytania typu "abcd".
+
+
+Dane wejściowe:
+Plik wejściowy ma n pytań. Każde pytanie ma: treść, możliwe odpowiedzi podane alfabetycznie, informacje o  poprawnej odpowiedzi i liczbę punktów za zadanie. 
+Pytania są oddzielone od siebie w taki sposób: "Pytanie n:", gdzie n to numer pytania.  
+Odpowiedzi: "Odp 'x':", gdzie x to znak odpowiedzi.
+Poprawna odpowiedź jest podawana za pomocą znaku " !(liczba punktów)! 'x' ".
+
+Przykładowy plik wejściowy z jednym pytaniem:
+------
+Pytanie 1: Ile jest dni w tygodniu?
+Odp a: 3
+Odp b: 5
+Odp c: 7
+Odp d: 9
+!1!c
+------
+
+Interface:
+1) W przypadku błędu danych, wyświetla się na ekran informacja "Błędne dane".
+2) Jeżeli jest plik pusty lub bez pytań, wyświetla się informacja "Brak pytań".
+3) Jeżeli dane są poprawne program przekazuje informacje o liczbie pytań i sumie punktów, którą można zdobyć na quizie. Pokazuje też opcje rozpoczęcia quizu za pomocą słowa "start", którą użytkownik wpisuje w konsolę. Jest również informacja o przejściu do następnego pytania za pomocą znaku '>' lub dowolnego pytania za pomocą znaku '>'x''.
+4) Po poprawnym rozpoczęciu quizu wyświetla się pierwsze pytanie z treścią i możliwymi odpowiedziami. Na pytanie odpowiada się wpisując znak odpowiedzi 'x'. Jeżeli chce się zmienić odpowiedź do pytania, można wpisać "('x')" 
+
+Przykład pytania:
+1) Ile jest dni w tygodniu?
+a: 3
+b: 5
+c: 7
+d: 9
+
+------ w konsoli:
+d
+------ 
+Program przekierowuje do następnego pytania.
+
+------ 
+>
+------
+Program idzie do pytania dalej bez odpowiedzi.
+
+------ 
+>1
+------
+Program wraca do pierwszego pytania i je znowu wyświetla.
+
+------
+(c)
+------
+Program nadpisuje odpowiedź do pytania, na którym użytkownik się aktualnie znajduje.
+
+5) Jeżeli chce się zakończyć program należy wpisać słowo "Koniec". Wtedy program podaje informacje o liczbie punktów jako ułamek i jako procent z całości. Podaje również numer pytania i poprawną odpowiedź do każdego pytania. Przykład:
+------
+Zdobyte punkty: 1/1 (100%)
+1) Ile jest dni w tygodniu?
+c: 7
+------
+
+
+Sposób tworzenia programu:
+Program na wejściu pobiera dane z pliku wejściowego i umieszcza je w strukturze danych. Te dane są później wykorzystywane do stworzenia pytań za pomocą klasy: class Question. Obiekty z klasy Question można umieścić w kolejnej strukturze i wykorzystać do stworzenia interface'u.
+
+
+
+
+
