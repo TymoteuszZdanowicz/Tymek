@@ -1,6 +1,0 @@
-﻿  Interface.cpp
-  main.cpp
-  parseFile.cpp
-E:\Politechnika\PK\Project - quiz\Project - quiz\parseFile.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
-  Project - quiz.vcxproj -> E:\Politechnika\PK\Project - quiz\Debug\Project - quiz.exe
