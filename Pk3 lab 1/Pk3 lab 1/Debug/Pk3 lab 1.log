@@ -1,0 +1,49 @@
+﻿  pk3my_22_lab01-studenci.cpp
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(40,19): error C2668: 'maks': ambiguous call to overloaded function
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(26,35): message : could be 'const char *maks<int>(Y,Y)'
+          with
+          [
+              Y=int
+          ]
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(16,25): message : or       'X maks<int>(X,X)'
+          with
+          [
+              X=int
+          ]
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(40,19): message : while trying to match the argument list '(int, int)'
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(41,24): error C2668: 'maks': ambiguous call to overloaded function
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(26,35): message : could be 'const char *maks<double>(Y,Y)'
+          with
+          [
+              Y=double
+          ]
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(16,25): message : or       'X maks<double>(X,X)'
+          with
+          [
+              X=double
+          ]
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(41,24): message : while trying to match the argument list '(double, double)'
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(42,24): error C2668: 'maks': ambiguous call to overloaded function
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(26,35): message : could be 'const char *maks<double>(Y,Y)'
+          with
+          [
+              Y=double
+          ]
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(16,25): message : or       'X maks<double>(X,X)'
+          with
+          [
+              X=double
+          ]
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(42,24): message : while trying to match the argument list '(double, double)'
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(43,23): error C2668: 'maks': ambiguous call to overloaded function
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(26,35): message : could be 'const char *maks<char>(Y,Y)'
+          with
+          [
+              Y=char
+          ]
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(16,25): message : or       'X maks<char>(X,X)'
+          with
+          [
+              X=char
+          ]
+C:\Users\SuperStudent\Desktop\Pk3 lab 1\Pk3 lab 1\pk3my_22_lab01-studenci.cpp(43,23): message : while trying to match the argument list '(char, char)'
