@@ -1,0 +1,16 @@
+﻿  pk3my_lab02-studenci_v3JK.cpp
+C:\Users\tymek\Desktop\pk3my_lab02-studenci_v3JK.cpp(50,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tymek\Desktop\pk3my_lab02-studenci_v3JK.cpp(73,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(3534,13): error C2100: illegal indirection
+C:\Users\tymek\Desktop\pk3my_lab02-studenci_v3JK.cpp(148): message : see reference to function template instantiation '_OutIt std::generate_n<std::vector<MojeTrio,std::allocator<MojeTrio>>,int,main::<lambda_40942335073fd26a251b22e184f954e0>>(_OutIt,const _Diff,_Fn)' being compiled
+          with
+          [
+              _OutIt=std::vector<MojeTrio,std::allocator<MojeTrio>>,
+              _Diff=int,
+              _Fn=main::<lambda_40942335073fd26a251b22e184f954e0>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(3536,13): error C2675: unary '++': '_OutIt' does not define this operator or a conversion to a type acceptable to the predefined operator
+          with
+          [
+              _OutIt=std::vector<MojeTrio,std::allocator<MojeTrio>>
+          ]
