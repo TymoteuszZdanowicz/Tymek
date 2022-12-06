@@ -1,0 +1,6 @@
+﻿  Pk3 lab 5.cpp
+C:\Users\SuperStudent.PL\Desktop\Lab 5\Lab 5\Pk3 lab 5.cpp(18,15): warning C4244: "inicjowanie": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+C:\Users\SuperStudent.PL\Desktop\Lab 5\Lab 5\Pk3 lab 5.cpp(16): message : podczas kompilowania funkcji składowej „Tablica<double>::Tablica(__int64)” klasy klasa szablon
+C:\Users\SuperStudent.PL\Desktop\Lab 5\Lab 5\Pk3 lab 5.cpp(44): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Tablica<double>::Tablica(__int64)” funkcji szablon
+C:\Users\SuperStudent.PL\Desktop\Lab 5\Lab 5\Pk3 lab 5.cpp(44): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Tablica<double>” klasy klasa szablon
+  Lab 5.vcxproj -> C:\Users\SuperStudent.PL\Desktop\Lab 5\Debug\Lab 5.exe
