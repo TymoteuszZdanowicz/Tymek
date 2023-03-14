@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\superstudent\\desktop\\moduły lab\\moduły.cpp",
+        "ProvidedModule": "",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Complex",
+                "BMI": "C:\\Users\\SuperStudent\\Desktop\\Moduły lab\\Debug\\Complex.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

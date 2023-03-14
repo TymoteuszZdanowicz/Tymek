@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\superstudent\\desktop\\moduły lab\\complex.ixx",
+        "ProvidedModule": "Complex",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\enterprise\\vc\\tools\\msvc\\14.29.30133\\include\\iostream",
+                "BMI": "C:\\Users\\SuperStudent\\Desktop\\Moduły lab\\Debug\\iostream_DA9X4X6U87B7376V.ifc"
+            }
+        ]
+    }
+}
