@@ -1,0 +1,16 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  main.cpp
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(1,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(2,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(3,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(4,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(5,10): warning C4067: nieoczekiwane tokeny wystŕpuj╣ce po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Trwa kompilowanie…
+  main.cpp
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\SuperStudent\Desktop\FileSystem\main.cpp(28): warning C4715: "sprawdzNumer”: niewszystkie ścieżki kodu zwracają wartość
+  FileSystem.vcxproj -> C:\Users\SuperStudent\Desktop\FileSystem\Debug\FileSystem.exe
