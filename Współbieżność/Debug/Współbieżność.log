@@ -1,0 +1,6 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  main.cpp
+  Trwa kompilowanie…
+  main.cpp
+C:\Users\SuperStudent\Desktop\Współbieżność\main.cpp(55,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Współbieżność.vcxproj -> C:\Users\SuperStudent\Desktop\Współbieżność\Debug\Współbieżność.exe
