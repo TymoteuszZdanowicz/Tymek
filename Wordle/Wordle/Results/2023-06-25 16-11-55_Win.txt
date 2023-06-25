@@ -1,0 +1,3 @@
+Correct Word: fired
+Number of Guesses: 3
+Game Result: Win

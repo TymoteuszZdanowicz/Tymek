@@ -1,0 +1,3 @@
+Correct Word: monic
+Number of Guesses: 4
+Game Result: Win

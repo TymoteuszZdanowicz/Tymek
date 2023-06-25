@@ -1,0 +1,3 @@
+Correct Word: clear
+Number of Guesses: 2
+Game Result: Win

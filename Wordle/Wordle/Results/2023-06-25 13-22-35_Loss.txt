@@ -1,0 +1,4 @@
+Correct Word: moire
+Last guess: gauge
+Number of Guesses: 6
+Game Result: Loss

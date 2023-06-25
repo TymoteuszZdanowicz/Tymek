@@ -1,0 +1,3 @@
+Correct Word: lapis
+Number of Guesses: 2
+Game Result: Win

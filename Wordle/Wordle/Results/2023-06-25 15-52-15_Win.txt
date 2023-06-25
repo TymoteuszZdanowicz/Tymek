@@ -1,0 +1,3 @@
+Correct Word: artsy
+Number of Guesses: 4
+Game Result: Win

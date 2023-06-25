@@ -1,0 +1,3 @@
+Correct Word: based
+Number of Guesses: 1
+Game Result: Win
